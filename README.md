@@ -2,7 +2,7 @@
 Final project for JOURN 124 exploring AI hallucination legal cases.
 
 # 1. Headline
-
+Number of AI hallucination legal cases have nearly double in the past year according to Damien Charlotin's dataset, making it hard to discern what is real and what is not.
 
 
 # 2. Dataset Origins and Challenges
@@ -44,6 +44,8 @@ I then created a pivot table with the rows as the "Month" column ascending and t
 
 
 <img width="1512" height="799" alt="Screenshot 2026-07-05 at 11 49 36 PM" src="https://github.com/user-attachments/assets/ecd7f09c-6669-4830-b87d-71f2f390bdac" />
-I then wanted to look closer at the specific AI tools again to see if a visualization would help show a better view of the top three groups, and made a bar chart off of the top three entries from my previous pivot table. Clearing, there is a great difference between cases using Chat GPT, unidentified tools, and implied AI usage. This shows the urgency of this issue as it is very hard to tell what was created by AI and what wasn't, and who's at fault in each case.
+I then wanted to look closer at the specific AI tools again to see if a visualization would help show a better view of the top three groups, and made a bar chart off of the top three entries from my previous pivot table. Clearing, there is a great difference between cases using Chat GPT, unidentified tools, and implied AI usage. They appear to have mearly doubled over the past year. This shows the urgency of this issue as it is very hard to tell what was created by AI and what wasn't, and who's at fault in each case.
+
 
 # 5. Ending Summary, Ethical Concerns, Reporting Process
+Ultimately, from this analysis I found that there is a great increase over the past year in AI hallucination legal cases. It is hard to determine what AI was used to create false information, and if it was even present, making this an urgent issue. This is likely because as AI is trainined, it gets better with every model. This makes it more difficult to see the difference between human made content and AI generated content, making hallucinations more likely to pass into media and public works. However, it is extremely important to recognize how limited this dataset is with under 2,000 entries as this is a very new issue. More entries would be needed to make this a more ethical and stronger dataset.
