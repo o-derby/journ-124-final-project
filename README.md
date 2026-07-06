@@ -12,6 +12,8 @@ This dataset immediately caught my attention as I am extremely interested in how
 One major challenge with this dataset is that it is limited in sample size. There are only about 1,700 cases/entries listed as AI law is a very new topic with its recent developments. This is very small compared to other legal data sets that have millions of entries. Additionally, after looking through the provided columns, there is one called "AI Tool" which lists which AI tool presumably made a hallucination. For many of these cases, they were unable to identify what exact AI tool produced a hallucination which makes it difficult to compare different models and the rates at which they hallucinate.
 
 # 3. Data Analysis
+<img width="1512" height="799" alt="dataset" src="https://github.com/user-attachments/assets/8b36698d-8bc6-42dc-8890-51d6e443ffe1" />
+
 
 # 4. Data Visualizations
 
